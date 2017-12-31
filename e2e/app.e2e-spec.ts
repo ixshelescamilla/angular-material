@@ -1,6 +1,6 @@
 import { SitePage } from './app.po';
 
-describe('site App', () => {
+describe('angular5-material App', () => {
   let page: SitePage;
 
   beforeEach(() => {
